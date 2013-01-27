@@ -1,3 +1,3 @@
-# MRuby FizzBuzz Compiled to C
+# MRuby FizzBuzz Standalone Executable
 
-A simple FizzBuzz (`fizzbuzz.rb`) compiled to binary C code (`fizzbuzz.c`) then on to a standalone executable (`fizzbuzz`) that doesn't require Ruby or MRuby to be installed to be run.
+A simple FizzBuzz `fizzbuzz.rb` compiled to binary C code `fizzbuzz.c` then on to a standalone executable `fizzbuzz` that doesn't require Ruby or MRuby to be installed to be run.
